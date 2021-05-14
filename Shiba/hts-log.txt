@@ -1,0 +1,13 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 13 May 2021 19:59:03 at https://shibatoken.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://shibatoken.com/ -O1 "C:\My Web Sites\Shiba" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+19:59:09	Error: 	"Not Found" (404) at link https://shibatoken.com/276436894 (from https://shibatoken.com/)
+19:59:10	Error: 	"Not Found" (404) at link https://shibatoken.com/Content/BundledScripts/ (from https://shibatoken.com/nicepage.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 7 seconds : 25 links scanned, 22 files written (3761903 bytes overall) [2447084 bytes received at 349583 bytes/sec], 1591477 bytes transferred using HTTP compression in 10 files, ratio 15%, 12.5 requests per connection
+(2 errors, 0 warnings, 0 messages)
